@@ -1,4 +1,4 @@
-computer engineering student @ unige
+computer engineering student
 
 <!---
 # README Template ⚙️
